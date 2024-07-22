@@ -108,8 +108,8 @@ function MapView() {
         <Map
             mapboxAccessToken="pk.eyJ1Ijoib24zc3MiLCJhIjoiY2x5d2swcmk5MWhyZzJpcXZ1d2sxNjdsZyJ9.46vRAqRaE8qlDMr6rgVQpw"
             initialViewState={{
-                longitude: -122.4,
-                latitude: 37.8,
+                longitude: 91.89400328004274,
+                latitude: 25.57881910471798,
                 zoom: 14
             }}
             mapStyle="mapbox://styles/on3ss/clywk54h5006y01pc425m170t"
